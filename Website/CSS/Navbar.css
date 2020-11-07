@@ -1,6 +1,6 @@
 /* CSS Document */
 
-ul {
+nav ul {
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
@@ -8,15 +8,15 @@ ul {
 	background-color:cyan;
 }
 
-li {
+nav li {
 	display: inline;
 }
 
-li {
+nav li {
 	float: left;
 }
 
-li a {
+nav li a {
 	display:block;
 	color: white;
 	text-align: center;
@@ -25,14 +25,14 @@ li a {
 	height: 95px;
 }
 
-a {
+nav a {
 	display: block;
 	padding: 8px;
 	background-color: cyan;
-	margin: 25px
+	margin: 25px;
 }
 
-ul {
+nav ul {
 	background-color: cyan;
 	position: fixed;
 	top: 0;
@@ -41,7 +41,7 @@ ul {
 	height: 95px;
 }
 
-li a:hover {
+nav li a:hover {
 	background-color: hotpink;
 	color: mediumpurple;
 }
@@ -52,4 +52,14 @@ nav {
 
 .active {
 	color: magenta;
+}
+
+.firsttext {
+	top: 100px;
+	margin: 10px;
+}
+.backnav {
+	background-color: magenta;
+	height: 100%;
+	width: 100%;
 }
