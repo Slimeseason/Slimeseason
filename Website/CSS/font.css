@@ -1,0 +1,32 @@
+/* CSS Document */
+
+@font-face {
+	src: url("../Fonts/Kanit-Regular.ttf");
+	font-family: "Kanit Regular"; 
+}
+
+@font-face {
+	src: url("../Fonts/Kanit-Bold.ttf");
+	font-family: "Kanit Bold";
+}
+
+@font-face {
+	src: url("../Fonts/Kanit-Light.ttf");
+	font-family: "Kanit Light";
+}
+
+body {
+	font-family: "Kanit Regular";
+}
+
+.light {
+	font-family: "Kanit Light";
+}
+
+.bold {
+	font-family: "Kanit Bold";
+}
+
+.white {
+	color: white;
+}
