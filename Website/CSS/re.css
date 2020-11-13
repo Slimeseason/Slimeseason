@@ -19,3 +19,17 @@
 	color: #000000;
 	line-height: 44px;
 }
+
+.img-info p {
+	padding: 0px 30px 20px;
+	font-family: "Kanit Regular";
+	color: #000;
+	line-height: 44px;
+}
+
+.img-info a {
+	padding: 0px 30px 20px;
+	font-family: "Kanit Regular";
+	color: #000;
+	line-height: 44px;
+}
