@@ -1,0 +1,21 @@
+/* CSS Document */
+
+.wrapper {
+	width: 100%;
+}
+
+.img-banner {
+	display: none;
+}
+
+.img-info {
+	width: 100%;
+}
+
+.img-info h2 {
+	padding: 30px 30px 20px;
+	font-family: "Kanit Regular";
+	font-size: 50px;
+	color: #000000;
+	line-height: 44px;
+}
